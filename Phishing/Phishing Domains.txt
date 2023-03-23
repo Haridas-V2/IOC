@@ -5,3 +5,4 @@
 juslowting[.]com    198.54.125[.]130
 formspree[.]io      172.66.40[.]119
 formspree[.]io      172.66.43[.]137 
+elmagic.org         192.185.16.177

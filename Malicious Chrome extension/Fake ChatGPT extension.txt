@@ -1,0 +1,15 @@
+// Landing Pages:
+hxxps://www.chatgptforgoogle[.]pro
+hxxps://www.chatgptgoogle[.]org
+
+// Malicious Extension ID:
+hacfaophiklaeolhnmckojjjjbnappen
+
+// Malicious Extension Pages on Official Chrome Store:
+hxxps://chrome.google[.]com/webstore/detail/chatgpt-for-google/hacfaophiklaeolhnmckojjjjbnappen
+
+// C2 Server:
+hxxps://version.chatgpt4google[.]workers.dev
+
+// Encryption Keys Used:
+AES:chatgpt4google
